@@ -7,12 +7,6 @@ Trait to upload files from inputs forms through mutator easily.
 Include this in your composer.json:
 ```sh
 {
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/dartika/laravel-uploadable-mutator"
-        }
-    ],
     "require": {
         "dartika/laravel-uploadable-mutator": "dev-master"
     }
